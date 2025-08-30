@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/ceelee001808github.io/static/css/main.a68aaf2d.css",
-    "main.js": "/ceelee001808github.io/static/js/main.21f6d60d.js",
+    "main.js": "/ceelee001808github.io/static/js/main.627ddf88.js",
     "static/js/453.b05d8aa5.chunk.js": "/ceelee001808github.io/static/js/453.b05d8aa5.chunk.js",
+    "static/media/evimage.png": "/ceelee001808github.io/static/media/evimage.02f8d404b15ad815443f.png",
     "static/media/portrait.png": "/ceelee001808github.io/static/media/portrait.bdb48a5c68e346718a40.png",
     "static/media/tesla.png": "/ceelee001808github.io/static/media/tesla.b6f282d0b8539d226470.png",
-    "static/media/evpotentialvisual.jpeg.png": "/ceelee001808github.io/static/media/evpotentialvisual.jpeg.5cb00be15969ccb7d57b.png",
     "static/media/bg-light.png": "/ceelee001808github.io/static/media/bg-light.bac0efb485244a522981.png",
     "static/media/housingbills.png": "/ceelee001808github.io/static/media/housingbills.8f8ec50f94ac419ecb5d.png",
     "static/media/bg-dark.png": "/ceelee001808github.io/static/media/bg-dark.f420c6b8458af72de935.png",
     "static/media/uber.png": "/ceelee001808github.io/static/media/uber.340168c73bbb7e2f69eb.png",
     "index.html": "/ceelee001808github.io/index.html",
     "main.a68aaf2d.css.map": "/ceelee001808github.io/static/css/main.a68aaf2d.css.map",
-    "main.21f6d60d.js.map": "/ceelee001808github.io/static/js/main.21f6d60d.js.map",
+    "main.627ddf88.js.map": "/ceelee001808github.io/static/js/main.627ddf88.js.map",
     "453.b05d8aa5.chunk.js.map": "/ceelee001808github.io/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a68aaf2d.css",
-    "static/js/main.21f6d60d.js"
+    "static/js/main.627ddf88.js"
   ]
 }
